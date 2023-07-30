@@ -1,0 +1,3 @@
+Semester Fee : 90000.00 Rs
+Amount Paid  : 100000.00 Rs
+Due Fee      : 0.00 Rs
