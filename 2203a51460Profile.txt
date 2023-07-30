@@ -1,0 +1,47 @@
+University Details : 
+ 	Name (As Per SSC) : Alluri Harsha Sri
+  	Hall Ticket Number : 2203a51460
+ 	Personal Mail Address : alluri@gmail.com
+ 	Date Of Birth : 05-08-2004
+ 	Adhaar Number : 1234678912342201202002
+ 	Degree : B.Tech
+ 	Branch : CSE
+ 	Admission Category (Convener/Management) : ManagementHostel
+ 	Your Stay (Hostel/Home) : Hostel
+ 	Father Name : Alluri Koteshwar Rao
+ 	Mother Name : Alluri Pavithra
+ 	Father's Mobile Number : 
+ 	Mother's Mobile Number : 99999999999
+ 	Father's Occupation : Business
+ 	Mothers Occupation : Business
+ 	Annual Income : 1800000
+ 	Physically Handicapped (Yes/No) : 
+
+SSC Details : 
+ 	SSC Hall Ticket Number : 1921156789
+ 	Marks / Grade Obtained In Class 10 : 
+ 	Year Of Pass Of 10th : 2019
+ 	Board Of Study (SSC/CBSE/ICSE) : SSC
+ 	Pass Type (Regular/Supplementary) : Regualr
+ 	Medium Of Education : English
+ 	School Name : Akshara The Techno School
+
+Intermediate Details : 
+ 	Intermediate HallTicket Number : 2201202002
+ 	College Name : Sri Chaitanya
+ 	Intermediate Group : MPC
+ 	Medium Of Intruction : English
+ 	Intermediate Marks : 972
+ 	Year Of Pass Of Intermediate : 2021
+ 	Pass Type (Regular/Supplementary) : Regular
+
+CET Details : 
+ 	CET Type (EAMCET/ECET/ICET/PGCET/NONE) : NONE
+ 	CET Hall Ticket Number : NONE
+ 	CET Year : NONE
+ 	CET Rank : NONE
+
+Medical Details : 
+ 	Blood Group : B+
+ 	Identification Marks 1 : xxxxxxxxxxxxxxx
+ 	Identification Marks 2 : xxxxxxxxxxxxxxx

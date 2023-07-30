@@ -1,0 +1,48 @@
+University Details : 
+
+    Name (As Per SSC) : Paruchuri Umesh Chandra
+    Hall Ticket Number : 2203a51579
+    Personal Mail Address : paruchuriumeshchandra@gmail.com
+    Date Of Birth : 05-08-2004
+    Adhaar Number : 1234 5678 9122122789
+    Degree : B.Tech
+    Branch : CSE
+    Admission Category (Convener/Management) : Convener
+    Your Stay (Hostel/Home) : Hostel
+    Father Name : Paruchuri Umesh Chandra
+    Mother Name : Paruchuri Kavitha
+    Father's Mobile Number : 9949091200
+    Mother's Mobile Number : 6281174743
+    Father's Occupation : House Wife
+    Mothers Occupation : House Wife
+    Annual Income : 180000
+    Physically Handicapped (Yes/No) : 
+
+SSC Details : 
+    SSC Hall Ticket Number : 1921143081
+    Marks / Grade Obtained In Class 10 : 9.8
+    Year Of Pass Of 10th : 2019
+    Board Of Study (SSC/CBSE/ICSE) : SSC
+    Pass Type (Regular/Supplementary) : Regular
+    Medium Of Education : English
+    School Name : Akshara The School
+
+Intermediate Details : 
+    Intermediate HallTicket Number : 22122789
+    College Name : Sri Chaitanya
+    Intermediate Group : MPC
+    Medium Of Intruction : English
+    Intermediate Marks : 982
+    Year Of Pass Of Intermediate : 2021
+    Pass Type (Regular/Supplementary) : Regular
+
+CET Details : 
+    CET Type (EAMCET/ECET/ICET/PGCET/NONE) : EAMCET
+    CET Hall Ticket Number : 2203A5155
+    CET Year : 2022
+    CET Rank : 7194
+
+Medical Details : 
+    Blood Group : O+
+    Identification Marks 1 : A Mole On Left Hand
+    Identification Marks 2 : A Mole On Chest
